@@ -15,7 +15,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone 
+git clone https://github.com/rgiragos/Module-6.git
 Change to the project directory:
 
 bash
